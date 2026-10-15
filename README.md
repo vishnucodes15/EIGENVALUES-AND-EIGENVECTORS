@@ -11,7 +11,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: Printing the Eigenvalues and Eigenvectors using f"string
 
 ## Program:
-```
+```python
 #Program to find the eigen values and eigen vectors.
 #Developed by: Sre Vishnu Priyar L N
 #RegisterNumber: 26009605
